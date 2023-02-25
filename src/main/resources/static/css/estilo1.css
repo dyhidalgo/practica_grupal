@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    /* Este fon family se toma de la página utilizada desde la fuente importada*/
+    font-family: 'Montserrat', sans-serif;
+}
+/* 
+    Created on : 25 feb 2023, 11:08:04
+    Author     : Diker Hidalgo
+*/
+.Container{
+    background-color: #cdcfd2;
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+
+}
+
